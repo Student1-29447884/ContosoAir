@@ -1,4 +1,3 @@
-YAML
    pool:
      vmImage: 'ubuntu-18.04'
    trigger:
